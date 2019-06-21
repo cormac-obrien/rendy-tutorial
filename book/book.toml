@@ -1,0 +1,5 @@
+[book]
+authors = ["Mac O'Brien"]
+multilingual = false
+src = "src"
+title = "Rendy Tutorial"
